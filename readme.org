@@ -1,0 +1,6 @@
+#+TITLE: Tic-tac-toe
+
+* Build and run
+#+begin_src shell
+clang ttt.c -o ttt && ./ttt
+#+end_src
